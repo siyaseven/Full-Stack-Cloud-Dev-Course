@@ -1,0 +1,9 @@
+//Checking Node js version
+$ node --version
+// To start the server you can write this command
+$ node index.js
+output $ server listening on port: 8080
+//viewing the content of the document on the terminal:
+$ cat index.js
+//Command to ping the application:
+$ curl localhost:808
